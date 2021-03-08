@@ -1,0 +1,176 @@
+RESULTS
+
+Dallas Mavericks at Orlando Magic
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt    FT
+ORL  104.88   11.85    0.43  11.56  15.5
+DAL  112.00   11.65    0.46  13.12  18.0
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+ORL       111.59           11.71        13.38       14.74
+DAL       112.00           11.65        13.12       18.00
+
+100000 GAME SIMULATION: 
+Orlando Magic won 38.7 percent of games. (38703 games)
+Dallas Mavericks won 61.3 percent of games. (61297 games)
+
+SPREAD:
+Dallas Mavericks are favored at -3.5
+
+MONEYLINE:
+Dallas Mavericks to win: -168
+Orlando Magic to win: +148
+
+OVER/UNDER:
+The projected total points is 220.0
+
+Indiana Pacers at Philadelphia 76ers
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+PHI  113.74   10.46    0.47  10.56  21.47
+IND  113.00   10.16    0.47  12.31  16.75
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+PHI       110.74           11.19        12.68       17.59
+IND       113.00           10.16        12.31       16.75
+
+100000 GAME SIMULATION: 
+Philadelphia 76ers won 55.57 percent of games. (55574 games)
+Indiana Pacers won 44.43 percent of games. (44426 games)
+
+SPREAD:
+Philadelphia 76ers are favored at -1.5
+
+MONEYLINE:
+Philadelphia 76ers to win: -113
+Indiana Pacers to win: +113
+
+OVER/UNDER:
+The projected total points is 225.0
+
+Utah Jazz at New Orleans Pelicans
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+NOP  115.48   11.84    0.48  11.79  18.36
+UTH  116.21   11.12    0.47  16.94  17.03
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+NOP       115.67           12.10        15.79       16.06
+UTH       116.21           11.12        16.94       17.03
+
+100000 GAME SIMULATION: 
+New Orleans Pelicans won 49.83 percent of games. (49830 games)
+Utah Jazz won 50.17 percent of games. (50170 games)
+
+SPREAD:
+Utah Jazz are favored at -0.5
+
+MONEYLINE:
+Utah Jazz to win: -111
+New Orleans Pelicans to win: +109
+
+OVER/UNDER:
+The projected total points is 232.0
+
+Brooklyn Nets at San Antonio Spurs
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+SAS  110.93   10.79    0.46  10.76  17.00
+BKN  120.71   13.31    0.50  15.23  18.17
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+SAS       111.24           10.38        12.90       14.28
+BKN       120.71           13.31        15.23       18.17
+
+100000 GAME SIMULATION: 
+San Antonio Spurs won 49.79 percent of games. (49791 games)
+Brooklyn Nets won 50.21 percent of games. (50209 games)
+
+SPREAD:
+Brooklyn Nets are favored at -0.5
+
+MONEYLINE:
+Brooklyn Nets to win: -111
+San Antonio Spurs to win: +109
+
+OVER/UNDER:
+The projected total points is 232.0
+
+Denver Nuggets at Chicago Bulls
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+CHI  114.69   11.36    0.49  13.09  15.66
+DEN  115.52    9.49    0.48  13.52  16.00
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+CHI       114.84           10.76        11.72        19.0
+DEN       115.52            9.49        13.52        16.0
+
+100000 GAME SIMULATION: 
+Chicago Bulls won 49.57 percent of games. (49569 games)
+Denver Nuggets won 50.43 percent of games. (50431 games)
+
+SPREAD:
+Denver Nuggets are favored at -0.5
+
+MONEYLINE:
+Denver Nuggets to win: -112
+Chicago Bulls to win: +108
+
+OVER/UNDER:
+The projected total points is 230.0
+
+Chicago Bulls at Houston Rockets
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+HOU  107.91   13.31    0.44  13.47  17.00
+CHI  114.69   11.36    0.49  13.09  15.66
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+HOU       112.59           11.67        12.12       18.47
+CHI       114.69           11.36        13.09       15.66
+
+100000 GAME SIMULATION: 
+Houston Rockets won 42.12 percent of games. (42122 games)
+Chicago Bulls won 57.88 percent of games. (57878 games)
+
+SPREAD:
+Chicago Bulls are favored at -2.5
+
+MONEYLINE:
+Chicago Bulls to win: -147
+Houston Rockets to win: +127
+
+OVER/UNDER:
+The projected total points is 225.0
+
+Charlotte Hornets at Portland Trail Blazers
+OFFENSIVE STATS
+        Pts  SD Pts  FG Pct    3Pt     FT
+POR  114.16   12.14    0.44  16.03  17.06
+CHA  112.09    8.83    0.46  13.85  16.42
+
+DEFENSIVE STATS
+     Pts Allowed  SD Pts Allowed  3Pt Allowed  FT Allowed
+POR       115.19           10.78        12.88       18.81
+CHA       112.09            8.83        13.85       16.42
+
+100000 GAME SIMULATION: 
+Portland Trail Blazers won 47.76 percent of games. (47762 games)
+Charlotte Hornets won 52.24 percent of games. (52238 games)
+
+SPREAD:
+Charlotte Hornets are favored at -0.5
+
+MONEYLINE:
+Charlotte Hornets to win: -119
+Portland Trail Blazers to win: +101
+
+OVER/UNDER:
+The projected total points is 227.0

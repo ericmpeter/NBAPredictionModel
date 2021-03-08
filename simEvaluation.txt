@@ -1,0 +1,47 @@
+Games for 03-01-2021:
+                                Game Team Vegas Line  My Line     Result
+0  DALLAS MAVERICKS  @ ORLANDO MAGIC  DAL         -7     -3.5  Over: 254
+1  DALLAS MAVERICKS  @ ORLANDO MAGIC  ORL        220    220.0  Cover: +1
+
+
+
+                                   Game Team Vegas Line  My Line        Result
+0  INDIANA PACERS  @ PHILADELPHIA 76ERS  IND        224    225.0     Over: 244
+1  INDIANA PACERS  @ PHILADELPHIA 76ERS  PHI       -3.5     -1.5  Cover: +12.5
+
+
+
+                                Game Team Vegas Line  My Line      Result
+0  UTAH JAZZ  @ NEW ORLEANS PELICANS  UTH         -7     -0.5   Over: 253
+1  UTAH JAZZ  @ NEW ORLEANS PELICANS  NOR        237    232.0  Cover: +12
+
+
+
+                                 Game Team Vegas Line  My Line     Result
+0  BROOKLYN NETS  @ SAN ANTONIO SPURS  BKN         -4     -0.5  Cover: +7
+1  BROOKLYN NETS  @ SAN ANTONIO SPURS  SAS      233.5    232.0  Over: 237
+
+
+
+                              Game Team Vegas Line  My Line       Result
+0  DENVER NUGGETS  @ CHICAGO BULLS  DEN       -4.5     -0.5  Cover: +1.5
+1  DENVER NUGGETS  @ CHICAGO BULLS  CHI      225.5    230.0    Over: 230
+
+
+
+                                     Game Team Vegas Line  My Line      Result
+0  CLEVELAND CAVALIERS  @ HOUSTON ROCKETS  HOU         -3    225.0  Under: 191
+1         DENVER NUGGETS  @ CHICAGO BULLS  CHI      225.5     -2.5   Over: 230
+
+
+
+                                          Game Team Vegas Line  My Line  \
+0  CHARLOTTE HORNETS  @ PORTLAND TRAIL BLAZERS  CHA        230     -0.5   
+1  CHARLOTTE HORNETS  @ PORTLAND TRAIL BLAZERS  POR         -8    227.0   
+
+      Result  
+0  Over: 234  
+1  Cover: +4  
+
+
+
