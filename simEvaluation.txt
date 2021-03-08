@@ -30,8 +30,8 @@ Games for 03-01-2021:
 
 
                                      Game Team Vegas Line  My Line      Result
-0  CLEVELAND CAVALIERS  @ HOUSTON ROCKETS  HOU         -3    225.0  Under: 191
-1         DENVER NUGGETS  @ CHICAGO BULLS  CHI      225.5     -2.5   Over: 230
+0  CLEVELAND CAVALIERS  @ HOUSTON ROCKETS  CLE        217     -2.5  Cover: +14
+1  CLEVELAND CAVALIERS  @ HOUSTON ROCKETS  HOU         -3    214.5  Under: 191
 
 
 
